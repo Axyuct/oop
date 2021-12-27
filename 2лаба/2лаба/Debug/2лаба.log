@@ -1,0 +1,4 @@
+﻿  2лаба.cpp
+C:\Users\Роман\source\repos\2лаба\2лаба\2лаба.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Роман\source\repos\2лаба\2лаба\2лаба.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  2лаба.vcxproj -> C:\Users\Роман\source\repos\2лаба\Debug\2лаба.exe
