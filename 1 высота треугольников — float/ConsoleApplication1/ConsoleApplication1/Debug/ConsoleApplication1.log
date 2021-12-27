@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+E:\1\! простые\2021-12-21 Роман С++ простые\1 высота треугольников — float\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(12,19): warning C4305: инициализация: усечение из "double" в "float"
+E:\1\! простые\2021-12-21 Роман С++ простые\1 высота треугольников — float\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(13,19): warning C4305: инициализация: усечение из "double" в "float"
+E:\1\! простые\2021-12-21 Роман С++ простые\1 высота треугольников — float\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,20): warning C4305: инициализация: усечение из "double" в "float"
+  ConsoleApplication1.vcxproj -> E:\1\! простые\2021-12-21 Роман С++ простые\1 высота треугольников — float\ConsoleApplication1\Debug\ConsoleApplication1.exe
